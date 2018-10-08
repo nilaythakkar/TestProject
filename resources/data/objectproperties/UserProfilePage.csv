@@ -1,0 +1,4 @@
+ObjectName,Locator
+ReviewLink,"xPath=//*[@id="activity-content-12016494"]//a[contains(.,'Test Insurance Company Review')]"
+ReviewText,"xPath=//*[contains(@id,"review")]/p"
+ReviewSection,"xPath=//*[@id="wh-body-inner"]//a[contains(.,'Reviews')]"

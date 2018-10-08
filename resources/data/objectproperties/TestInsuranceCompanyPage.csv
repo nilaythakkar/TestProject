@@ -1,0 +1,6 @@
+ObjectName,Locator
+reviewarea,"xPath=//*[@id="wh-body-inner"]/div[2]/div[3]/div[2]"
+star1,"xPath=//*[@class="wh-rating-choices-holder"]/a[1]"
+star2,"xPath=//*[@class="wh-rating-choices-holder"]/a[2]"
+star3,"xPath=//*[@class="wh-rating-choices-holder"]/a[3]"
+star4,"xPath=//*[@class="wh-rating-choices-holder"]/a[4]"

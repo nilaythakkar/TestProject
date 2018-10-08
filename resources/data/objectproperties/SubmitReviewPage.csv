@@ -1,0 +1,7 @@
+ObjectName,Locator
+dropdown,"xPath=//*[@id="reviewform"]/div[1]/div/div/span[1]"
+health,"xPath=//*[@id="reviewform"]//a[contains(.,'Health')]"
+star,"xPath=//*[@id="overallRating"]/a[4]"
+reviewBox,name=review
+submit,"xPath=//input[@type='submit']"
+confirmation,"xPath=//*[@id="review"]//span[contains(.,'has been posted')]"

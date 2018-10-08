@@ -1,0 +1,4 @@
+ObjectName,Locator
+email,name=em
+password,name=pw
+login,"xPath=//button[@type='button'][2]"

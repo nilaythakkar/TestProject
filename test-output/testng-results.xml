@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77038" started-at="2018-10-07T07:53:39Z" finished-at="2018-10-07T07:54:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77038" started-at="2018-10-07T07:53:39Z" finished-at="2018-10-07T07:54:56Z">
+      <class name="com.wallethub.automation.PostReviewTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.wallethub.automation.PostReviewTest@1438d26]" name="launch" is-config="true" duration-ms="35849" started-at="2018-10-07T07:53:39Z" finished-at="2018-10-07T07:54:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="postReview()[pri:0, instance:com.wallethub.automation.PostReviewTest@1438d26]" name="postReview" duration-ms="37551" started-at="2018-10-07T07:54:15Z" finished-at="2018-10-07T07:54:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postReview -->
+        <test-method status="PASS" signature="flush()[pri:0, instance:com.wallethub.automation.PostReviewTest@1438d26]" name="flush" is-config="true" duration-ms="3524" started-at="2018-10-07T07:54:53Z" finished-at="2018-10-07T07:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- com.wallethub.automation.PostReviewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

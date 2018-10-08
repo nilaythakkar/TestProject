@@ -1,0 +1,11 @@
+Browser=Chrome
+ChromeDriver=D:\\eclipse\\Jars\\chromedriver.exe
+FirefoxDriver=D:\\eclipse\\Jars\\geckodriver.exe
+IEDriver=D:\\eclipse\\Jars\\IEDriverServer.exe
+OperaDriver=D:\\eclipse\\operadriver_win32\\operadriver.exe
+Wait=180
+email=nilaythakkar007@gmail.com
+password=Password@123
+username=nilay
+URL=https://wallethub.com/join/login
+LogPath=D:\\
